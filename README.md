@@ -12,7 +12,7 @@ These Modifications were combined with updates based on the second edition of th
 Since this repository is based on the original repository by A. Geron and work done by K. Zoch, it is made available under the same licensing terms using the Apache License 2.0.
 Please make sure to follow the respective conditions of this license when distributing or using this repository.
 
-[1] A. Geron, *Hands-On Machine Learning with Scikit-Learn and TensorFlow*, O'Reilly 2017, ISBN: 978-1491962299
+[1] A. Geron, *Hands-On Machine Learning with Scikit-Learn and TensorFlow*, O'Reilly 2017, ISBN: 978-1491962299  
 [2] A. Geron, *Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow*, O'Reilly 2019, ISBN: 978-1492032649
 
 # Obtaining a copy of this repository
