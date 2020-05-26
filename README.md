@@ -1,9 +1,22 @@
 Machine Learning Notebooks
 ==========================
 **Note**
-All credit for the code examples of this notebook goes to the book "Hands-On Machine Learning with Scikit-Learn & TensorFlow" by A. Geron. Modifications were made and text was added by K. Zoch and S. Korn in preparation for the hands-on sessions.
+All credit for the code examples of this notebook goes to the book "Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow" by A. Geron. 
 
-This project aims at teaching you the fundamentals of Machine Learning in
-python. It contains the example code and solutions to the exercises in the second edition of my O'Reilly book [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/):
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/51aqYc1QyrL._SX379_BO1,204,203,200_.jpg" title="book" width="150" />
+All of the code examples are taken from or inspired by Ref. [1]. Modifications were made and text was added primarily by K. Zoch in preparation for the hands-on sessions in summer 2019. This work is stored in his repository: 
+```
+https://github.com/knutzk/handson-ml
+```
+These Modifications were combined with updates based on the second edition of the book by A. Geron [2]. This work was done by S. Korn.
+Since this repository is based on the original repository by A. Geron and work done by K. Zoch, it is made available under the same licensing terms using the Apache License 2.0.
+Please make sure to follow the respective conditions of this license when distributing or using this repository.
+
+[1] A. Geron, *Hands-On Machine Learning with Scikit-Learn and TensorFlow*, O'Reilly 2017, ISBN: 978-1491962299  
+[2] A. Geron, *Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow*, O'Reilly 2019, ISBN: 978-1492032649
+
+# Obtaining a copy of this repository
+To obtain a copy of this repository you can download the ZIP file or use:
+```
+git clone https://github.com/stkorn-dev/handson-ml2
+```
